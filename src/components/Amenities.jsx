@@ -100,7 +100,7 @@ export default function Amenities() {
             <img
               alt={item.title}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-              src={item.img}
+              src="/rancho-jarinu-website/images/piscina-dia.jpg"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-espresso/80 via-transparent to-transparent flex items-end p-4">
               <span className="text-xs text-white font-medium">{item.title}</span>
