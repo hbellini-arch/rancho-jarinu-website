@@ -72,7 +72,7 @@ export default function Gastronomy() {
               <img
                 alt="Mesa farta de café da manhã regional na Pousada Rancho Jarinu"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                src="/images/cafe-buffet.jpg"
+                src="/rancho-jarinu-website/images/cafe-buffet.jpg"
               />
               <span className="absolute top-4 left-4 px-3 py-1 rounded-md bg-espresso/85 backdrop-blur-md text-[0.6875rem] uppercase tracking-wider text-warm-cream font-semibold">
                 Buffet Pantaneiro
@@ -94,7 +94,7 @@ export default function Gastronomy() {
               <img
                 alt="Salão aconchegante de café da manhã do rancho"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                src="/images/cafe-mesa.jpg"
+                src="/rancho-jarinu-website/images/cafe-mesa.jpg"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-espresso/80 via-transparent to-transparent flex items-end p-3">
                 <span className="text-[0.6875rem] text-white font-medium">Salão Aconchegante</span>
