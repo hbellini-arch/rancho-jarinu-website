@@ -5,8 +5,8 @@ import path from 'path';
 
 export async function build() {
   console.log('[build] Compiling bundle.js with esbuild-wasm...');
-  if (!fs.existsSync('dist')) {
-    fs.mkdirSync('dist', { recursive: true });
+    if (fs.existsSync('public')) {
+    fs.cpSync('public', 'dist', { recursive: true });
   }
 
   await esbuild.build({
