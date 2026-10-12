@@ -7,42 +7,41 @@ export default function PhotoGallery() {
     {
       title: 'Arquitetura Rústica & Fachada',
       alt: 'Fachada e arquitetura em madeira nobre da Pousada Rancho Jarinu',
-      src: '/images/hero-facade.jpg',
+      src: '/rancho-jarinu-website/images/hero-facade.jpg',
     },
     {
       title: 'Piscina & Solarium',
       alt: 'Piscina e espreguiçadeiras ao sol no pátio da pousada',
-      src: '/images/piscina-dia.jpg',
+      src: '/rancho-jarinu-website/images/piscina-dia.jpg',
     },
     {
       title: 'Iluminação Noturna da Piscina',
       alt: 'Iluminação acolhedora noturna na piscina e quiosque',
-      src: '/images/piscina-noite.jpg',
+      src: '/rancho-jarinu-website/images/piscina-noite.jpg',
     },
     {
       title: 'Sacada Privativa em Madeira',
       alt: 'Sacada privativa em madeira com vista para o jardim',
-      src: '/images/suite-sacada-2.jpg',
+      src: '/rancho-jarinu-website/images/suite-sacada-2.jpg',
     },
     {
       title: 'Redário & Descanso',
       alt: 'Espaço de descanso com redes e sombra das árvores',
-      src: '/images/redario.jpg',
-    },
+      src: '/rancho-jarinu-website/images/redario.jpg',
     {
       title: 'Jardim Arborizado & Pátio',
       alt: 'Pátio arborizado com bancos de tora e vegetação nativa',
-      src: '/images/jardim-patio.jpg',
+      src: '/rancho-jarinu-website/images/jardim-patio.jpg',
     },
     {
       title: 'Apartamentos Aconchegantes',
       alt: 'Quarto aconchegante com detalhes em tijolinho e ar condicionado',
-      src: '/images/room-casal.jpg',
+      src: '/rancho-jarinu-website/images/room-casal.jpg',
     },
     {
       title: 'Quiosque & Churrasqueira',
       alt: 'Quiosque com churrasqueira rústica para confraternização',
-      src: '/images/quiosque-churrasqueira.jpg',
+      src: '/rancho-jarinu-website/images/quiosque-churrasqueira.jpg',
     },
   ];
 
