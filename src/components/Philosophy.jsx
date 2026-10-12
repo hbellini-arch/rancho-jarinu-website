@@ -73,7 +73,7 @@ export default function Philosophy() {
               <img
                 alt="Recepção acolhedora em madeira maciça da Pousada Rancho Jarinu"
                 className="w-full h-full object-cover"
-                src="/images/recepcao.jpg"
+                src="/rancho-jarinu-website/images/recepcao.jpg"
               />
             </div>
 
