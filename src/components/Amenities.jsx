@@ -35,19 +35,19 @@ export default function Amenities() {
   const gallery = [
     {
       title: 'Piscina & Solarium',
-      img: '/images/piscina-dia.jpg',
+      img: '/rancho-jarinu-website/images/piscina-dia.jpg',
     },
     {
       title: 'Iluminação Noturna Aconchegante',
-      img: '/images/piscina-noite.jpg',
+      img: '/rancho-jarinu-website/images/piscina-noite.jpg',
     },
     {
       title: 'Café Regional Artesanal',
-      img: '/images/cafe-mesa.jpg',
+      img: '/rancho-jarinu-website/images/cafe-mesa.jpg',
     },
     {
       title: 'Bancos de Tora & Jardim',
-      img: '/images/redario.jpg',
+      img: '/rancho-jarinu-website/images/redario.jpg',
     },
   ];
 
