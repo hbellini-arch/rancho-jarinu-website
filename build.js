@@ -24,6 +24,13 @@ export async function build() {
   console.log('[build] Compiling Tailwind CSS...');
   execSync('npx tailwindcss -i ./src/index.css -o ./dist/style.css', { stdio: 'inherit' });
   console.log('[build] CSS compiled successfully!');
+  
+    console.log('[build] Copiando arquivos estáticos...');
+  fs.copyFileSync('index.html', 'dist/index.html');
+
+  if (fs.existsSync('images')) {
+    fs.cpSync('images', 'dist/images', { recursive: true });
+  }
 }
 
 if (process.argv[1] && process.argv[1].endsWith('build.js')) {
