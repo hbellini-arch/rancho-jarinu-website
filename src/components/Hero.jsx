@@ -24,7 +24,7 @@ export default function Hero() {
       <img
         alt="Fachada Pousada Rancho Jarinu"
         className="absolute inset-0 w-full h-full object-cover object-center filter brightness-[0.88]"
-        src="/images/hero-facade.jpg"
+        src="/rancho-jarinu-website/images/hero-facade.jpg"
       />
       {/* Deep Naturalistic Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-t from-[#1b1005] via-[#241607]/65 to-[#241607]/45" />
