@@ -86,7 +86,7 @@ export default function TourAgency() {
                 <img
                   alt="Flutuação em águas cristalinas dos rios de Bonito - MS"
                   className="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-105 filter brightness-[0.95]"
-                  src="/images/flutuacao.jpg"
+                  src="/rancho-jarinu-website/images/flutuacao.jpg"
                 />
                 <span className="absolute top-3 left-3 px-3 py-1 rounded-md bg-espresso/85 backdrop-blur-md text-[0.6875rem] uppercase tracking-wider text-warm-cream font-semibold">
                   Vouchers Oficiais
