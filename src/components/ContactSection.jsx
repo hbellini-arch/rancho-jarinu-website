@@ -23,7 +23,7 @@ export default function ContactSection() {
       <img
         alt="Rancho Jarinu Textura Noturna"
         className="absolute inset-0 w-full h-full object-cover opacity-20 filter grayscale"
-        src="/images/piscina-noite.jpg"
+        src="/rancho-jarinu-website/images/piscina-noite.jpg"
       />
       <div className="absolute inset-0 bg-[#241607]/85" />
 
