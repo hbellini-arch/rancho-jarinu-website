@@ -83,7 +83,7 @@ export default function Gastronomy() {
               <img
                 alt="Detalhes de bolos, pães e quitutes do café da manhã"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                src="/images/cafe-bolos.jpg"
+                src="/rancho-jarinu-website/images/cafe-buffet.jpg"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-espresso/80 via-transparent to-transparent flex items-end p-3">
                 <span className="text-[0.6875rem] text-white font-medium">Bolos &amp; Quitutes Caseiros</span>
