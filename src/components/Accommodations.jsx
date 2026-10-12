@@ -10,7 +10,7 @@ export default function Accommodations() {
       tag: 'Casal ou Duplo',
       tagBg: 'bg-espresso/80',
       description: 'Tijolinho à vista, cama Queen, ar split, frigobar e silêncio para descanso após as trilhas.',
-      image: '/images/room-casal.jpg',
+      image: '/rancho-jarinu-website/images/room-casal.jpg',      
       category: 'casal',
       features: ['Cama Queen', 'Ar Split', 'Frigobar', 'Wi-Fi Fibra']
     },
@@ -20,7 +20,7 @@ export default function Accommodations() {
       tag: 'Até 4 Pessoas',
       tagBg: 'bg-secondary-dark/90',
       description: 'Cama de casal + beliche artesanal em madeira maciça. Espaço ideal para famílias com crianças.',
-      image: '/images/room-familia.jpg',
+      image: '/rancho-jarinu-website/images/room-familia.jpg',
       category: 'familia',
       features: ['Cama Casal + Beliche', 'Ar Split', 'Espaçoso', 'Frigobar']
     },
@@ -30,7 +30,7 @@ export default function Accommodations() {
       tag: 'Piso Superior',
       tagBg: 'bg-espresso/80',
       description: 'Sacada privativa em madeira com vista para as palmeiras e jardins, recebendo a brisa agradável da tarde.',
-      image: '/images/suite-sacada.jpg',
+      image: '/rancho-jarinu-website/images/suite-sacada.jpg',
       category: 'suite',
       features: ['Sacada Privativa', 'Vista Jardim', 'Ar Split', 'Cama King/Queen']
     }
