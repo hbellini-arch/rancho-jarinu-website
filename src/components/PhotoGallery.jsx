@@ -28,6 +28,7 @@ export default function PhotoGallery() {
       title: 'Redário & Descanso',
       alt: 'Espaço de descanso com redes e sombra das árvores',
       src: '/rancho-jarinu-website/images/redario.jpg',
+    },
     {
       title: 'Jardim Arborizado & Pátio',
       alt: 'Pátio arborizado com bancos de tora e vegetação nativa',
