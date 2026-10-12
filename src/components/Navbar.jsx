@@ -51,7 +51,7 @@ export default function Navbar() {
             <img
               alt="Rancho Jarinu Icon"
               className="w-auto h-9 sm:h-11 object-contain filter opacity-95 group-hover:scale-105 transition-transform flex-shrink-0"
-              src="/images/logo.png"
+              src="/rancho-jarinu-website/images/logo.png"
               style={{
                 filter:
                   'brightness(0) saturate(100%) invert(67%) sepia(11%) saturate(543%) hue-rotate(69deg) brightness(91%) contrast(87%)',
