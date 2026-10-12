@@ -1,0 +1,23 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f5;
+  }
+}
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #241607;
+}
+::-webkit-scrollbar-thumb {
+  background: #8da28c;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=bundle.css.map */

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pousada Rancho Jarinu — Bonito, MS | Hospedagem &amp; Agência de Passeios</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="/images/logo.png" />
+    <link rel="stylesheet" href="/dist/style.css" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#a4530c",
+              "primary-dark": "#823e00",
+              "primary-container": "#ffdcc7",
+              "secondary": "#506350",
+              "secondary-dark": "#384b39",
+              "secondary-container": "#d2e9d0",
+              "sage": "#8da28c",
+              "espresso": "#3a230a",
+              "espresso-dark": "#241607",
+              "espresso-card": "#2e1c09",
+              "warm-cream": "#eee9c1",
+              "linen-border": "#e3dec0",
+              "surface": "#fff8f5",
+              "surface-container-low": "#fff1e7",
+              "surface-container": "#ffeada",
+              "on-surface": "#2b1702",
+              "on-surface-variant": "#554338",
+              "outline-variant": "#dbc2b3"
+            },
+            fontFamily: {
+              headline: ["Newsreader", "serif"],
+              display: ["Newsreader", "serif"],
+              body: ["Plus Jakarta Sans", "sans-serif"],
+              sans: ["Plus Jakarta Sans", "sans-serif"]
+            }
+          }
+        }
+      };
+    </script>
+  </head>
+  <body class="bg-surface font-body text-on-surface antialiased selection:bg-primary-container selection:text-espresso">
+    <div id="root"></div>
+    <script type="module" src="/dist/bundle.js"></script>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.css"],
+  "sourcesContent": ["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n@layer base {\n  html, body {\n    margin: 0;\n    padding: 0;\n    background-color: #fff8f5;\n  }\n}\n\n::-webkit-scrollbar {\n  width: 6px;\n}\n::-webkit-scrollbar-track {\n  background: #241607;\n}\n::-webkit-scrollbar-thumb {\n  background: #8da28c;\n  border-radius: 3px;\n}\n"],
+  "mappings": ";AAAA,UAAU;AACV,UAAU;AACV,UAAU;AAEV;AACE;AAAA,EAAM;AACJ,YAAQ;AACR,aAAS;AACT,sBAAkB;AACpB;AACF;AAEA;AACE,SAAO;AACT;AACA;AACE,cAAY;AACd;AACA;AACE,cAAY;AACZ,iBAAe;AACjB;",
+  "names": []
+}
